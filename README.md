@@ -3,7 +3,7 @@
 
 ### How to play
 
-`Space` to shoot
+`Space` to shoot <br>
 `Up/Down` to move the plane
 
 
